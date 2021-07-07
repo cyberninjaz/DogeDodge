@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.6227">
+  <sounds />
+  <images>
+    <image name="bg">
+      <file name="bg.png" size="1185866" />
+    </image>
+    <image name="johncena-removebg-preview">
+      <file name="johncena-removebg-preview.png" size="228074" />
+    </image>
+    <image name="spikes">
+      <file name="spikes.png" size="230311" />
+    </image>
+    <image name="trampoleen">
+      <file name="trampoleen.png" size="123007" />
+    </image>
+    <image name="bomb-clipart-transparent-bomb-emoji">
+      <file name="bomb-clipart-transparent-bomb-emoji.png" size="112355" />
+    </image>
+    <image name="bomb art">
+      <file name="bomb art.png" size="34633" />
+    </image>
+    <image name="banana">
+      <file name="banana.png" size="118807" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>
